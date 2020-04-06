@@ -1,6 +1,6 @@
 {
   "jwtPrivateKey": "unsecureKey",
-  "db": "mongodb+srv://root:computer101@movies-1ubmq.mongodb.net/vidly?retryWrites=true&w=majority",
+  "db": "mongodb//root:computer101@movies-1ubmq.mongodb.net/vidly",
   "port": "3900",
   "requiresAuth": true
 }
